@@ -1,1 +1,2 @@
 # GraphIntepreter
+A Python project that lets users to input information that represents a graph, invoke functions to solve many graph related problems using well-known algorithms, and display the graph on standard output.
